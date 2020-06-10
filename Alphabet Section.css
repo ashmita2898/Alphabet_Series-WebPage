@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Josefin+Sans:ital,wght@0,100;0,400;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #F2CF7F;
+    font-family: 'Josefin Sans', sans-serif;
+    color
+
+}
+
+.wrapper{
+    margin-top: 10%;
+}
+
+.wrapper h1{
+    font-family: 'Allura', cursive;
+    color: #900C3F;
+    font-size: 150px;
+    margin-bottom: 60px;
+    text-align: center;
+
+}
+.All_Alphabets{
+    display: grid;
+    text-align: center;
+    width: auto;
+}
+.All_Alphabets .Alphabets{
+    background: #D59517;
+    margin: 5px;
+    margin-bottom: auto;
+    padding: 5px;
+    color: chocolate;
+    position: relative;
+}
+.All_Alphabets .Alphabets h3{
+    display: flex;
+    color: #900C3F;
+    font-size: 60px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    padding-left: initial;
+    
+    
+}
+.All_Alphabets .Alphabets p.examples{
+    color: #D5C017;
+    font-size: 30px;
+    text-transform: initial;
+}
+.All_Alphabets .Alphabets p{
+    color: #900C3F;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
